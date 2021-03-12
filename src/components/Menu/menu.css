@@ -1,0 +1,10 @@
+.wrapper {
+  background-color: #f4f4f4;
+  padding-top: 10px;
+}
+
+.menu__list {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
