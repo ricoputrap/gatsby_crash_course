@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby Crash Course`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    author: `@ricoputrap`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -12,7 +12,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: 'pages',
-        path: `${__dirname}/src/images`,
+        path: `${__dirname}/src/pages`,
       }
       // options: {
       //   name: `images`,
