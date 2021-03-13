@@ -1,6 +1,6 @@
 ---
 path: "/post-two"
-date: "2021-03-12"
+date: "2021-03-13"
 title: "My Second Gatsby Post"
 author: "Rico Putra"
 ---

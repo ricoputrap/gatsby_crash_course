@@ -14,10 +14,6 @@ module.exports = {
         name: 'pages',
         path: `${__dirname}/src/pages`,
       }
-      // options: {
-      //   name: `images`,
-      //   path: `${__dirname}/src/images`,
-      // },
     },
     `gatsby-transformer-sharp`,
     `gatsby-transformer-remark`,
